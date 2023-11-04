@@ -1,3 +1,9 @@
 # Ionic Title Flicker
 
-[Screen Record of this bug](./Preview.mov)
+
+[Screen Recording of this bug](./Preview.mov)
+
+
+``` yarn run install && yarn run dev ```
+
+
